@@ -4,4 +4,4 @@ python:
 cache: pip
 
 script:
-  - Makefile
+  - make
