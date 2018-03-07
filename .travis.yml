@@ -4,4 +4,4 @@ python:
 cache: pip
 
 script:
-  - test_rpn.py
+  - Makefile
